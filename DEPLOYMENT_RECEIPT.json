@@ -1,0 +1,14 @@
+{
+  "project": "jons-jacob-berzelius-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "AD91sD6DSyxMjp4LGWMvzF2S99Xqkc9Cq7wXakPSo997",
+  "vault_account": "3bTaUFeuSGihpppv7jWdj8rodfWveQR1j5qPPVA2zxjJ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2h7GurNmMJ7uppbQW6qvKFqrt28hHgWsW2nK72hRX8DPD6MkZcWieeAiDKWQL6xo8J7yqcvmVTDKwb6EFNFsQELh",
+  "account_tx": "4MPehTx8J3jLzJQF1Dhp86odHkpcWtN5iPUuAGTh7itVj8RTAc8xmjgPVXqYR7HuLrrePVnztwsyKvdGyoVng9Xt",
+  "mint_tx": "4pRysP3edcKX1QgxX4eHyHeFQKwtzuEhUCEZhtaytyBwykgCoGN28EbobEmUzve84rWTnaE33gFtjiHhQuL3hfgX",
+  "solana_explorer_mint": "https://explorer.solana.com/address/AD91sD6DSyxMjp4LGWMvzF2S99Xqkc9Cq7wXakPSo997?cluster=devnet",
+  "timestamp": "2026-10-26 16:44:23 UTC"
+}
